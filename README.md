@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there I'm Iddhi 👋</h1>
 
 ***
 
@@ -10,3 +10,5 @@
 
 ### Achievements
 [![@iddhidasanayaka's Holopin board](https://holopin.me/iddhidasanayaka)](https://holopin.io/@iddhidasanayaka)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=iddhi-sulakshana&theme=dark&border_radius=5)](https://git.io/streak-stats)
