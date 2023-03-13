@@ -13,7 +13,7 @@
 > Made with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">Streaks</h2>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)]
 [![GitHub Streak](https://streak-stats.demolab.com?user=iddhi-sulakshana&theme=dark&border_radius=5)](https://git.io/streak-stats)
 > Made with [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 
