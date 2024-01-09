@@ -9,7 +9,7 @@
 
 <h2 align="center">Languages</h2>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iddhi-sulakshana&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iddhi-sulakshana&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 > Made with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">Streaks</h2>
