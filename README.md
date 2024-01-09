@@ -1,7 +1,3 @@
-<div align="center">
-  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/97652887" align="center" alt="GitHub Readme Stats" width="50px" />
   
@@ -45,5 +41,9 @@
 <div align="center">
 <img src="https://holopin.me/iddhidasanayaka">
 
-<img src="https://github-profile-trophy.vercel.app/?username=iddhi-sulakshana&theme=onedark&row=1" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=iddhi-sulakshana&theme=juicyfresh&row=1&no-bg=true&no-frame=true" width="100%" />
+</div>
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/iddhi-sulakshana/iddhi-sulakshana/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
 </div>
