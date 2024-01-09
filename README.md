@@ -42,6 +42,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=iddhi-sulakshana&theme=juicyfresh&row=1&no-bg=true&no-frame=true" width="100%" />
 </div>
 <div align="center">
-  <img  src="https://raw.githubusercontent.com/iddhi-sulakshana/iddhi-sulakshana/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/iddhi-sulakshana/iddhi-sulakshana/blob/output/github-contribution-grid-snake-dark.svg"
        alt="snake" /></a>
 </div>
