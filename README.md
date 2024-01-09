@@ -1,3 +1,7 @@
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/iddhi-sulakshana/iddhi-sulakshana/output/github-contribution-grid-snake-dark.svg"
+       alt="snake" /></a>
+</div>
 <p align="center">
 <h1 align="center"><b><i>Hi there I'm Iddhi</i></b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
@@ -21,15 +25,15 @@
 </p>
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="18"> Stats</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=iddhi-sulakshana&show_icons=true&theme=chartreuse-dark&hide=issues&show=prs_merged" alt="GitHub Stats"/>
+  <img height=200 width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=iddhi-sulakshana&show_icons=true&theme=transparent&hide=issues&show=prs_merged" alt="GitHub Stats"/>
 </a>
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=18> Languages</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iddhi-sulakshana&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=10&hide=html,css" alt="GitHub Languages"/>
+  <img height=200 width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iddhi-sulakshana&show_icons=true&theme=transparent&layout=compact&langs_count=10&hide=html,css" alt="GitHub Languages"/>
 </a>
 <h2 align="center">Streaks</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width="100%" align="center" src="https://streak-stats.demolab.com?user=iddhi-sulakshana&theme=chartreuse-dark&border_radius=5" alt="GitHub Streak"/>
+  <img height=200 width="100%" align="center" src="https://streak-stats.demolab.com?user=iddhi-sulakshana&theme=transparent&border_radius=5" alt="GitHub Streak"/>
 </a>
 
 > Made with [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
@@ -40,8 +44,4 @@
 <img src="https://holopin.me/iddhidasanayaka">
 
 <img src="https://github-profile-trophy.vercel.app/?username=iddhi-sulakshana&theme=juicyfresh&row=1&no-bg=true&no-frame=true" width="100%" />
-</div>
-<div align="center">
-  <img  src="https://raw.githubusercontent.com/iddhi-sulakshana/iddhi-sulakshana/output/github-contribution-grid-snake-dark.svg"
-       alt="snake" /></a>
 </div>
