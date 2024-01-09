@@ -35,8 +35,8 @@
   <img height=200 width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iddhi-sulakshana&show_icons=true&theme=transparent&layout=compact&langs_count=10&hide=html,css" alt="GitHub Languages"/>
 </a>
 <h2 align="center">Streaks</h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width="100%" align="center" src="https://streak-stats.demolab.com?user=iddhi-sulakshana&theme=transparent&border_radius=5" alt="GitHub Streak"/>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img height=200 width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iddhi-sulakshana&theme=transparent" alt="GitHub Streak"/>
 </a>
 
 <h2 align="center">Achievements</h2>
