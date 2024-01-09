@@ -6,6 +6,8 @@
   <h1 align="center"><b><i>Hi there I'm Iddhi</i></b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </p>
 <p align="center">
+  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=cyan&size=30&center=true&vCenter=true&width=700&height=50&lines=Welcome to my GitHub space! &hearts;++;Self-taught+Full-Stack+Developer,;Software+Engineering+Student,;Code+Adventurer,;Active+Learner,;Love+to+learn+new+stuffs.."> -->
+  
   <img src="./media/welcomesvg.svg">
 </p>
 <p align="center">
