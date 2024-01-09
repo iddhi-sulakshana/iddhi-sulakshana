@@ -1,12 +1,12 @@
 <div align="center">
   <img  src="https://raw.githubusercontent.com/iddhi-sulakshana/iddhi-sulakshana/output/github-contribution-grid-snake-dark.svg"
-       alt="snake" /></a>
+       alt="snake" />
 </div>
 <p align="center">
-<h1 align="center"><b><i>Hi there I'm Iddhi</i></b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <h1 align="center"><b><i>Hi there I'm Iddhi</i></b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=cyan&size=30&center=true&vCenter=true&width=700&height=50&lines=Welcome to my GitHub space! &hearts;++;Self-taught+Full-Stack+Developer,;Software+Engineering+Student,;Code+Adventurer,;Active+Learner,;Love+to+learn+new+stuffs..">
+  <img src="./media/welcomesvg.svg">
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -36,8 +36,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 width="100%" align="center" src="https://streak-stats.demolab.com?user=iddhi-sulakshana&theme=transparent&border_radius=5" alt="GitHub Streak"/>
 </a>
-
-> Made with [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <h2 align="center">Achievements</h2>
 
