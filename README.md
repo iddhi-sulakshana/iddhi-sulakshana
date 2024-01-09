@@ -14,7 +14,7 @@
 
 <h2 align="center">Streaks</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iddhi-sulakshana&theme=dark&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iddhi-sulakshana&theme=chartreuse-dark&border_radius=5)](https://git.io/streak-stats)
 
 > Made with [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 
