@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/97652887" align="center" alt="GitHub Readme Stats" width="50px" />
-  
-<h2 align="center"><b><i>Hi there I'm Iddhi</i></b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+<h1 align="center"><b><i>Hi there I'm Iddhi</i></b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=cyan&size=30&center=true&vCenter=true&width=700&height=50&lines=Welcome to my GitHub space! &hearts;++;Self-taught+Full-Stack+Developer,;Software+Engineering+Student,;Code+Adventurer,;Active+Learner,;Love+to+learn+new+stuffs.."></p>
 </p>
