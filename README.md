@@ -4,12 +4,12 @@
 
 <h2 align="center">Stats</h2>
 
-[![Iddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=iddhi-sulakshana&show_icons=true&theme=chartreuse-dark&hide=issues&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+[![Iddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=iddhi-sulakshana&show_icons=true&theme=chartreuse-dark&hide=issues&show=prs_merged)](https://github.com/anuraghazra/github-readme-stats)
 > Made with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">Languages</h2>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iddhi-sulakshana&show_icons=true&theme=dracula&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iddhi-sulakshana&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 > Made with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">Streaks</h2>
