@@ -36,7 +36,7 @@
 </a>
 <h2 align="center">Streaks</h2>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height=200 width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iddhi-sulakshana&theme=transparent" alt="GitHub Streak"/>
+  <img height=200 width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iddhi-sulakshana&theme=transparent&mode=weekly" alt="GitHub Streak"/>
 </a>
 
 <h2 align="center">Achievements</h2>
