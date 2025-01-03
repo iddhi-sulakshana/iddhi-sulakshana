@@ -49,7 +49,7 @@
 
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/iddhi-sulakshana"
+    src="https://render.gitanimals.org/farms/iddhi-sulakshana"
     width="100%"
     height="250"
   />
