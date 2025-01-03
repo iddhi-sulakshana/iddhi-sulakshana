@@ -45,4 +45,14 @@
 <img src="https://holopin.me/iddhidasanayaka">
 
 <img src="https://github-profile-trophy.vercel.app/?username=iddhi-sulakshana&theme=juicyfresh&row=1&no-bg=true&no-frame=true" width="100%" />
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/iddhi-sulakshana"
+    width="100%"
+    height="250"
+  />
+</a>
+  
 </div>
